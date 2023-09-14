@@ -1,0 +1,13 @@
+C:\Users\rafan\source\repos\Challenge-DIO\bin\Debug\netcoreapp3.1\Challenge-DIO.exe
+C:\Users\rafan\source\repos\Challenge-DIO\bin\Debug\netcoreapp3.1\Challenge-DIO.deps.json
+C:\Users\rafan\source\repos\Challenge-DIO\bin\Debug\netcoreapp3.1\Challenge-DIO.runtimeconfig.json
+C:\Users\rafan\source\repos\Challenge-DIO\bin\Debug\netcoreapp3.1\Challenge-DIO.runtimeconfig.dev.json
+C:\Users\rafan\source\repos\Challenge-DIO\bin\Debug\netcoreapp3.1\Challenge-DIO.dll
+C:\Users\rafan\source\repos\Challenge-DIO\bin\Debug\netcoreapp3.1\Challenge-DIO.pdb
+C:\Users\rafan\source\repos\Challenge-DIO\obj\Debug\netcoreapp3.1\Challenge-DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafan\source\repos\Challenge-DIO\obj\Debug\netcoreapp3.1\Challenge-DIO.AssemblyInfoInputs.cache
+C:\Users\rafan\source\repos\Challenge-DIO\obj\Debug\netcoreapp3.1\Challenge-DIO.AssemblyInfo.cs
+C:\Users\rafan\source\repos\Challenge-DIO\obj\Debug\netcoreapp3.1\Challenge-DIO.csproj.CoreCompileInputs.cache
+C:\Users\rafan\source\repos\Challenge-DIO\obj\Debug\netcoreapp3.1\Challenge-DIO.dll
+C:\Users\rafan\source\repos\Challenge-DIO\obj\Debug\netcoreapp3.1\Challenge-DIO.pdb
+C:\Users\rafan\source\repos\Challenge-DIO\obj\Debug\netcoreapp3.1\Challenge-DIO.genruntimeconfig.cache
